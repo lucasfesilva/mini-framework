@@ -1,0 +1,20 @@
+{
+    "name": "lucasfesilva/mini-framework",
+    "autoload": {
+        "psr-4": {
+            "Lucasfesilva\\MiniFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Felipe",
+            "email": "lucas.fesilva@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    }
+}
